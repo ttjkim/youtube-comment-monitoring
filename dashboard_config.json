@@ -35,6 +35,17 @@
       "prompt_file": "prompt_20260423.txt",
       "enabled": true,
       "collect_enabled": true
+    },
+    {
+      "id": "nps_ceo_ep1_20260527",
+      "tab_label": "국민연금TV",
+      "video_title": "골드만삭스도 한 수 배우고 간 국민연금 '역대급' 수익률 비결ㅣ수정편집본",
+      "video_url": "https://youtu.be/CRFUZ-yLZKc",
+      "start_date": "20260527",
+      "video_start_at": "2026-05-27 12:00:00",
+      "prompt_file": "prompt_base.txt",
+      "enabled": true,
+      "collect_enabled": true
     }
   ]
 }
