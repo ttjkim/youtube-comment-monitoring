@@ -26,6 +26,17 @@
       "collect_enabled": true
     },
     {
+      "id": "sampro_ceo_ep1_20260423",
+      "tab_label": "지식인사이드",
+      "video_title": "골드만삭스도 한 수 배우고 간 국민연금 '역대급' 수익률 비결ㅣ지식인초대석: CEO EP.1 (김성주 이사장)",
+      "video_url": "https://youtu.be/EBLo0C-sj2w?si=3OzV4KhNnKvKrspb",
+      "start_date": "20260423",
+      "video_start_at": "2026-04-23 19:00:00",
+      "prompt_file": "prompt_20260423.txt",
+      "enabled": true,
+      "collect_enabled": true
+    },
+    {
       "id": "nps_ceo_ep1_20260527",
       "tab_label": "국민연금TV",
       "video_title": "골드만삭스도 한 수 배우고 간 국민연금 '역대급' 수익률 비결ㅣ수정편집본",
